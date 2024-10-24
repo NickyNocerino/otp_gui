@@ -1,2 +1,3 @@
-
+PyQt5
+PyQt5-tools
 otp_exchange @ git+ssh://git@github.com/NickyNocerino/otp-exchange.git@main
